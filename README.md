@@ -1,4 +1,4 @@
-# 0g-nodes-guide
+# 0g-validator-node-guide
 Our 0g_labs guides
 
 ## Hardware Requirement
